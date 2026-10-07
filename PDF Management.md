@@ -11,6 +11,7 @@
 - [[OFFICIAL] Cisdem PDF Converter OCR for Mac | OCR Normal and Scanned PDF on Mac](https://www.cisdem.com/pdf-converter-ocr-mac.html)
 
 - [cleverpdf](https://www.cleverpdf.com/)
+- [Practical Web Tools](https://practicalwebtools.com/) - 1,400+ free browser-based PDF & file tools: edit, merge, split, sign, redact, convert PDFs — all client-side, no uploads
 
 - [cute pdf](https://www.cutepdf.com/)
 
